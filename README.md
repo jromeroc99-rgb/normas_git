@@ -194,3 +194,6 @@ git push origin main
 8. Va a GitHub y crea Pull Request
 9. El jefe revisa y aprueba
 10. ¡Listo! Los cambios ya están en `dev`
+
+## 📊 Esquema Visual
+![esquema.png](esquema.png)
