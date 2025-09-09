@@ -69,7 +69,26 @@ git push origin tu_nombre
 - Descripción: explica un poco más si es necesario
 - "Create pull request"
 
-## 🎯 Comandos Súper Básicos
+## � Diferencia entre Rama Local y Remota
+
+### Rama Local 💻
+- Es la rama que tienes en tu computadora
+- Aquí haces tus cambios y commits
+- Solo tú la ves hasta que la "subas"
+
+### Rama Remota ☁️
+- Es la rama que está en GitHub (en la nube)
+- La ven todos los del equipo
+- Se actualiza cuando haces `git push`
+
+### Ejemplo fácil:
+1. **Trabajas en local**: cambias archivos → `git commit`
+2. **Subes a remoto**: `git push` → ahora todos pueden verlo
+3. **Otros bajan tus cambios**: `git pull` → traen tus cambios a su local
+
+> 💡 **Tip**: Siempre haz `git push` cuando termines de trabajar para que el equipo vea tus cambios
+
+## �🎯 Comandos Súper Básicos
 
 ```bash
 # Ver en qué rama estás
